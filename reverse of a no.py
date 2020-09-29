@@ -7,6 +7,6 @@ def reverse(n):
     
     print('reverse of given number:',rev)
 n=int(input("enter a no:"))
-reverse(n)
+reverse(n) #func call
 
         
